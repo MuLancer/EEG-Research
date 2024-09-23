@@ -1,1 +1,11 @@
-The main goal of this research is to investigate and categorize social and emotional learning (SEL) motivations behind problem-solving, based on the metrics introduced in Elliott et al.’s (2018) study on SEL. By using the electroencephalogram (EEG) wearable device and video processing techniques, we can measure the brain activity of the subjects when solving certain problems. We explore the use of the Mind Monitor application to process insightful information from the EEG signals. An experiment was carried out where the subjects solve problems while wearing the EEG headsets. The solving process will also be recorded and processed separately as variables. Machine learning algorithms were then developed to categorize the subjects’ social and emotional motivations. The dataset consists of the EEG readings and processed video recordings and was subsequently split into 80/20 for testing and validation. We hope to use this classification algorithm to predict people’s SEL motivations behind problem-solving.
+# EEG-based Research on Social-Emotional Learning (SEL)
+
+The main objective of this research is to investigate and categorize social and emotional learning (SEL) motivations behind problem-solving, using the metrics introduced in Elliott et al.'s (2018) study on SEL. By utilizing an electroencephalogram (EEG) wearable device along with video processing techniques, we measured the brain activity of participants during problem-solving tasks. The Mind Monitor application was employed to extract and analyze meaningful insights from the EEG signals. During the experiment, participants solved problems while wearing EEG headsets, with their problem-solving process also being recorded for further analysis. Machine learning algorithms were then developed to categorize the participants' social and emotional motivations. The dataset, consisting of EEG readings and processed video recordings, was split into an 80/20 ratio for testing and validation purposes. The goal is to leverage this classification algorithm to predict individuals’ SEL motivations in problem-solving contexts.
+
+The contributors to this research project are Dr. Tan Da Yang, Muhammad Danish Syazwan, Mulan Qin, and Zhihao Zhao.
+
+
+
+
+
+
